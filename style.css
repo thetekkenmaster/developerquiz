@@ -29,6 +29,8 @@ h2 {
 h3 {
 	text-align: center;
 	font-size: 2em;
+	padding-left: 4px;
+	padding-right: 4px;
 }
 h5 {
 	color: white;
